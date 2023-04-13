@@ -1,5 +1,5 @@
 
-// Palindromic substring, Check string are palindrome or not
+// Question Palindromic substring, Check string are palindrome or not?
 
 let string="racecar"
 let bag=""
@@ -16,7 +16,7 @@ if(bag==string){
     console.log(string, "is not a substring")
    }
 
-// Write a program that returns length of the longest palindromic substring of that string.
+// Write a program that returns length of the longest palindromic substring of that string?
 
 let S="thisracecarisgood"
  
